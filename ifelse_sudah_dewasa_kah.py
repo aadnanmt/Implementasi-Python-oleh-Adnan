@@ -1,7 +1,6 @@
-umur = input("masukkan data: ")
+umur = int(input("Masukkan umur kamu: "))
 
-umur = 20
 if umur >= 18:
-  print("Kamu sudah dewasa.")
+    print("Yeyy, Kamu sudah dewasa.")
 else:
-  print("Kamu masih di bawah umur.")
+    print("Yahh, Kamu masih di bawah umur.")
