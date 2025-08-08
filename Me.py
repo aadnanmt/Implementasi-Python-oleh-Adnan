@@ -1,6 +1,6 @@
 profil = {
     "my_name": "Adnan.",
-    "my_dream": "AI Engineer/Software Engineer Web 4.0.",
+    "my_dream": "Profesional Software Engineer.",
     "like": ["Technology", "Space", "Sains",
                 "In-depth discussion", "Programming", "Etc."],
     "my_focus": ["Personal Branding", "AI", "Business Digital."]
