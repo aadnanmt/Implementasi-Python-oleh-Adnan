@@ -25,11 +25,11 @@ Berikut adalah daftar proyek mini yang sudah saya buat, masing-masing ada di dal
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/aadnanmt/NAMA-REPO-BARU-KAMU.git](https://github.com/aadnanmt/NAMA-REPO-BARU-KAMU.git)
+    git clone [https://github.com/aadnanmt/NAMA-REPO-BARU-KAMU.git](https://github.com/aadnanmt/Python-Interactive-Projects.git)
     ```
 2.  **Masuk ke direktori proyek:**
     ```bash
-    cd NAMA-REPO-BARU-KAMU
+    cd Python-Interactive-Projects
     ```
 3.  **Masuk ke folder proyek yang ingin dijalankan:**
     ```bash
@@ -43,7 +43,7 @@ Berikut adalah daftar proyek mini yang sudah saya buat, masing-masing ada di dal
 
 ## 🎯 Fokus dan Rencana ke Depan
 
-Sesuai dengan mimpi saya untuk menjadi **AI Engineer/Software Engineer Web 4.0**, saya berencana untuk:
+Sesuai dengan mimpi saya untuk menjadi **Software Engineering yang profesional**, saya berencana untuk:
 - [ ] Mengembangkan proyek Buku Kontak dengan penyimpanan data permanen (menggunakan file `.json` atau database `SQLite`).
 - [ ] Membuat versi GUI (Graphical User Interface) dari beberapa proyek ini menggunakan `Tkinter` atau `PyQt`.
 - [ ] Memulai proyek baru yang berkaitan dengan **AI** dan **Personal Branding**, seperti membuat bot Telegram sederhana atau menganalisis data simpel.
