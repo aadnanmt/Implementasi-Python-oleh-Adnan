@@ -25,7 +25,7 @@ Berikut adalah daftar proyek mini yang sudah saya buat, masing-masing ada di dal
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/aadnanmt/NAMA-REPO-BARU-KAMU.git](https://github.com/aadnanmt/Python-Interactive-Projects.git)
+    git clone [https://github.com/aadnanmt/Python-Interactive-Projects.git](https://github.com/aadnanmt/Python-Interactive-Projects.git)
     ```
 2.  **Masuk ke direktori proyek:**
     ```bash
